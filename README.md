@@ -1,6 +1,6 @@
 # Significant words
 
-A Python script to compare the word frequencies of two corpora, AntConc style. Tests implemented: chi-squared, log-likelihood ratio, pointwise mutual information, and [the bootstrap test](https://users.ics.aalto.fi/lijffijt/bootstraptest/)
+A Python script to compare the word frequencies of two corpora, AntConc style. Tests implemented: chi-squared, log-likelihood ratio, pointwise mutual information, and [the bootstrap test](https://users.ics.aalto.fi/lijffijt/bootstraptest/).
 
 
 ### Dependencies
