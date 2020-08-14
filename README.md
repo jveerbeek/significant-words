@@ -7,6 +7,7 @@ A Python script to compare the word frequencies of two corpora, AntConc style. T
 * numpy
 * scikit-learn
 * scipy
+* tqdm
 
 ### Working example
 
