@@ -17,7 +17,7 @@ from keyword_analysis import significant_words
 import numpy as np 
 import pandas as pd
 
-from nltk.tokenize import RegexpTokenize
+from nltk.tokenize import RegexpTokenizer
 from sklearn.datasets import fetch_20newsgroups
 
 # Load dataset and tokenize it (could be any tokenizer)
